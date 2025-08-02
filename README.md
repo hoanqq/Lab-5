@@ -49,19 +49,23 @@ Biên cạnh đóng vai trò quan trọng trong các bài toán như phát hiệ
 
 ```bash
 pip install numpy opencv-python matplotlib
-2. Mở và chạy Notebook
-Dùng Jupyter Notebook hoặc Google Colab mở file .ipynb
+```
 
-Chạy lần lượt các cell để quan sát kết quả phát hiện biên
+### 2. Mở và chạy Notebook
+- Dùng Jupyter Notebook hoặc Google Colab mở file .ipynb
+- Chạy lần lượt các cell để quan sát kết quả phát hiện biên
+- Có thể thay đổi ảnh đầu vào hoặc ngưỡng trong thuật toán Canny để kiểm tra kết quả
 
-Có thể thay đổi ảnh đầu vào hoặc ngưỡng trong thuật toán Canny để kiểm tra kết quả
+---
 
-Kết luận
+## Kết luận
 Thông qua bài Lab này, sinh viên hiểu được nguyên lý hoạt động của các phương pháp phát hiện biên và đánh giá được ưu nhược điểm của từng phương pháp trong thực tế.
 
-Tài liệu tham khảo
-Digital Image Processing – Rafael C. Gonzalez
+---
 
-https://docs.opencv.org
+## Tài liệu tham khảo
+- *Digital Image Processing* – Rafael C. Gonzalez
+- [https://docs.opencv.org](https://docs.opencv.org)
+- Slide bài giảng môn Nhập môn Xử lý ảnh số – Văn Lang University
 
-Slide bài giảng môn Nhập môn Xử lý ảnh số – Văn Lang University
+---
